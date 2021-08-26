@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Subel19
 - 👀 I’m interested in ...Technology,Space,future and offcourse modern web development.
-- 🌱 I’m currently learning ...reactjs
+- 🌱 I’m currently learning ...html,css,JS,Reactjs and angularjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jamezsubel@gmail.com
 
