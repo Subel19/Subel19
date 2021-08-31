@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...html,css,JS,Reactjs and angularjs.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jamezsubel@gmail.com
+- Have a nice day! :)
 
 <!---
 Subel19/Subel19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
